@@ -1,0 +1,43 @@
+http:/www.shellcode.com.ar
+Sitio con información general sobre técnicas de Shellcoding, nuevas shellcodes, encrypted shellcodes, documentación y papers sobre exploiting, microprocesadores y otras técnicas.
+
+
+http://www.k-otik.com
+Sitio orientado a Seguridad informática, provee una de las bases de datos de exploits y advisories más grandes en el mundo. Actualizado diariamente.
+
+
+http://www.blackhat.com
+Compañía de seguridad, lista de muchos eventos relacionados con seguridad informática y nuevas tecnología en el ramo de seguridad.
+
+
+http://www.l0t3k.org
+Sitio francés, con muchísima documentación sobre networking, administración, IDS, virii, exploiting, programación, entre otros... Media Archive con un retoque de hacktivismo.
+
+
+http://www.cert.org.mx/
+El UNAM-CERT(Equipo de Respuesta a Incidentes de Seguridad en Cómputo) es un equipo de profesionales en seguridad en cómputo. se encarga de proveer el servicio de respuesta a incidentes de seguridad en cómputo a sitios que han sido víctimas de algún "ataque", así como de publicar información respecto a vulnerabilidades de seguridad, alertas de la misma índole y realizar investigaciones de la amplia área del cómputo y así ayudar a mejorar la seguridad de los sitios.
+Está localizado en el Departamento de Seguridad en Cómputo (DSC) de la Dirección General de Servicios de Cómputo Académico (DGSCA), de la UNAM.
+
+
+http://www.packetstormsecurity.org/
+Uno de los más grandes servidores con herramientas para auditoría y demás relacionado con seguridad, podrás encontrar desde Wordlists hasta las Advisories y exploits más nuevos. Organización comprometida con profesionales en seguridad, dedicada a proveer información necesaria para asegurar redes y computadoras.
+
+
+http://www.securityfocus.com/bid/
+Otra gran base de datos de vulnerabilidades de software ordenadas por Compañía/Empresa, Producto afectado, Versión... Detalles técnicos muy bien detallados, tales como lista de productos afectados, discución, prueba del concepto (exploit), actualización (parche).
+
+
+http://www.showmyip.com
+Sitio encargado de mostrarte la ip con que navegas. Buena herramienta para probar proxys, propiedades de tu browser, pais y dueño de la ip, ISP entre muchas otras cosas.
+
+
+http://www.netcraft.com
+Netcraft es una compañía de servicios de internet con base en Inglaterra. Provee servicios orientados a seguridad en redes y servicios automatizados de Penetration Test. Empresa dedicada a la investigación y análisis de servicios de internet, así como también ofrecer información de muchos ISPs y webservers en todo el mundo.
+
+
+http://es.wikipedia.org
+Enciclopedia libre, accesible y gratuita redactada por personas en todo el mundo. Disponible en mas de 100 idiomas.
+
+
+http://www.zone-h.org/en/download
+Sitio especializado en guardar los sitios atacados al rededor de internet, desde DEFACES, hasta fraudes en línea. Dicha web guarda un Mirror por si el sitio original ya fué actualizado y así pueda verse el deface. Tiene secciones como mailing lists, hasta entrevistas, pasando por una muy buena sección de documentos de todo tipo.

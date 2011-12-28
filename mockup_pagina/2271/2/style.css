@@ -1,0 +1,33 @@
+BODY {
+
+	color: White;
+}
+
+
+A {
+	text-decoration: underline;
+	color: #00D62F;
+}
+
+A:Hover {
+	text-decoration: none;
+	color: #01FF39;
+}
+
+a.menulink {
+	color: #014800;
+	text-decoration: none;
+	font-size : 16px;
+	font-weight : bold;
+	font-family : "Arial";
+}  
+.menulink:hover{
+	color: #01FF39;
+	font-size : 16px;
+}
+
+H1 {
+	color: #BD510A;
+	font-size : 23px;
+	font-family : Impact;
+}

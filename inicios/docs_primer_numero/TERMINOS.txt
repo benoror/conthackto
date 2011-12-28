@@ -1,0 +1,42 @@
+TERMINOS
+
+
+
+HACKER:
+Un hacker (del inglés hack, recortar), también conocidos como sombreros blancos es el neologismo utilizado para referirse a un experto en varias o algunas ramas relacionadas con la computación y telecomunicaciones: programación, redes de comunicaciones, sistemas operativos, hardware de red/voz.
+
+Su entendimiento es más sofisticado y profundo respecto a los sistemas informáticos, ya sea de tipo hardware o software. Se suele llamar hackeo y hackear a las obras propias de un hacker.
+
+
+FIREWALL:
+Un cortafuegos o firewall en Inglés, es un equipo de hardware o software utilizado en las redes para prevenir algunos tipos de comunicaciones prohibidos por las políticas de red, las cuales se fundamentan en las necesidades del usuario.
+
+-Protege de intrusiones.- Solamente entran a la red las personas autorizadas basadas en la política de la red en base a las configuraciones.
+-Optimización de acceso.- Identifica los elementos de la red internos y optimiza que la comunicación entre ellos sea más directa si así se desea. Esto ayuda a reconfigurar rápida y fácilmente los parámetros de seguridad.
+-Protección de información privada.- Permite el acceso solamente a quien tenga privilegios a la información de cierta área o sector de la red.
+-Proteccion contra virus.- Evita que la red se vea infestada por nuevos virus que sean liberados.
+
+
+SCRIPT KIDDIE:
+Aquella persona que presume de ser un hacker o cracker cuando en realidad no posee un grado de conocimientos suficientes. Normalmente usa cracks, exploits y programas similares construidos por personas con grandes conocimientos pero cuyo uso está al alcance de cualquiera.
+
+
+RSA:
+El sistema criptográfico con clave pública RSA recibe su nombre por la inicial del apellido de sus inventores: Ronald Rivest, Adi Shamir y Leonard Adleman. Todo usuario de dicho sistema hace pública una clave de cifrado y oculta una clave de descrifrado. Cuando se envía un mensaje, el emisor busca la clave pública de cifrado del receptor y una vez que dicho mensaje llega al receptor, éste se ocupa de descifrarlo usando su clave oculta. Los mensajes enviados usando el algoritmo RSA se representan mediante números y el funcionamiento se basa en el producto de dos números primos grandes (mayores que 10100) elegidos al azar para conformar la clave de descifrado. La seguridad de este algoritmo radica en que no hay maneras rápidas de factorizar un número grande en sus factores primos utilizando computadoras tradicionales.
+
+
+EXPLOIT:
+Exploit (viene de to exploit - aprovechar) - código escrito con el fin de aprovechar un error de programación para obtener diversos privilegios en el sistema operativo. No confundir exploit con fake mail (engañar a usuarios a poner su user y pass en un formulario y ser enviados al atacante).
+
+
+SSID:
+El SSID (Service Set IDentifier) es un código incluido en todos los paquetes de una red inalámbrica (Wi-Fi) para identificarlos como parte de esa red. El código consiste en un máximo de 32 caracteres alfanuméricos. Todos los dispositivos inalámbricos que intentan comunicarse entre sí deben compartir el mismo SSID.
+
+Existen dos variantes principales del SSID. Las redes ad-hoc, que consisten en máquinas cliente sin un punto de acesso, utilizan el BSSID (Basic Service Set Identifier); mientras que en las redes en infraestructura que incorporan un punto de acceso, se utiliza el ESSID (E de extendido). Nos podemos referir a cada uno de estos tipos como SSID en términos generales. A menudo al SSID se le conoce como nombre de la red.
+
+
+KERNEL:
+kernel (también conocido como núcleo) es la parte fundamental de un sistema operativo. Es el software responsable de facilitar a los distintos programas acceso seguro al hardware de la computadora. Como hay muchos programas y el acceso al hardware es limitado, el núcleo también se encarga de decidir qué programa podrá hacer uso de un dispositivo de hardware y durante cuánto tiempo, lo que se conoce como multiplexado. Acceder al hardware directamente puede ser realmente complejo, por lo que los núcleos suelen implementar una serie de abstracciones del hardware . Esto permite esconder la complejidad, y proporciona una interfaz limpia y uniforme al hardware subyacente, lo que facilita su uso para el programador.
+
+BACKBONE:
+Columna vertebral, conexión de alta velocidad que conecta a computadoras encargadas de circular grandes volúmenes de información. Los backbones conectan ciudades, o países, y constituyen la estructura fundamental de las redes de comunicación. Usado para interconectar redes entre sí utilizando diferentes tipos de tecnologías.
